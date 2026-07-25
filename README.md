@@ -4,7 +4,7 @@
 Blinkit (India's last-minute grocery delivery app) wants to understand outlet-level sales performance across its network. This dashboard helps the business see which item types, outlet sizes, and location tiers drive the most sales, so leadership can optimize inventory and outlet strategy.
 
 ## Dataset used
-- [Blinkit Sales Dataset]()
+- [Blinkit Sales Dataset](https://drive.google.com/file/d/1I5f_r7RUPKsQSoXvSP8g4B7CD1dvjNYC/view?usp=drivesdk)
 
 ## Questions (KPIs)
 - What is the total sales, average sales, number of items, and average customer rating?
