@@ -17,7 +17,7 @@ Blinkit (India's last-minute grocery delivery app) wants to understand outlet-le
 ## Process
 - Verified data for any missing values and anomalies, and sorted out the same.
 - Made sure data was consistent and clean with respect to data type, data format, and values used.
-- Created pivot tables and DAX measures according to the questions asked.
+- Created  DAX measures according to the questions asked.
 - Merged all visuals into one dashboard and applied slicers (Outlet Location Type, Outlet Size, Item Type) to make it dynamic.
 
 ## Project Insight
