@@ -21,9 +21,6 @@ Blinkit (India's last-minute grocery delivery app) wants to understand outlet-le
 - Created pivot tables and DAX measures according to the questions asked.
 - Merged all visuals into one dashboard and applied slicers (Outlet Location Type, Outlet Size, Item Type) to make it dynamic.
 
-## Dashboard
-![Blinkit Sales Dashboard](https://github.com/shedrack16/Blinkit-Sales-Dashboard)
-
 ## Project Insight
 - Total sales stand at $248.99K across 1,753 items, with an average sale value of $142 and an average rating of 3.9.
 - Sales by outlet establishment year peaked sharply around 2014 (over $130K) before dropping off significantly and staying flat through 2020.
@@ -34,3 +31,6 @@ Blinkit (India's last-minute grocery delivery app) wants to understand outlet-le
 
 ## Final Conclusion:
 To grow Blinkit's sales, investment should prioritize expanding Supermarket Type 1 outlets in Tier 3 locations, since this combination consistently outperforms other segments across total sales, item volume, and ratings. Inventory planning should also lean into the strongest-performing item types - Snack Foods, Fruits & Vegetables, and Frozen Foods - to capture the most demand.
+
+## Dashboard
+<img width="593" height="368" alt="Screenshot 2026-07-25 214102" src="https://github.com/user-attachments/assets/baa66325-3642-4440-8f6c-46fde8e774c7" />
