@@ -13,7 +13,6 @@ Blinkit (India's last-minute grocery delivery app) wants to understand outlet-le
 - How do sales compare between Low Fat and Regular fat content items?
 - How does outlet size (High) affect performance across Tier 2 and Tier 3 locations?
 - Which outlet type - Supermarket or Grocery Store - drives more total sales and items sold?
-- Dashboard Interaction [View Dashboard](https://github.com/shedrack16/Blinkit-Sales-Dashboard)
 
 ## Process
 - Verified data for any missing values and anomalies, and sorted out the same.
